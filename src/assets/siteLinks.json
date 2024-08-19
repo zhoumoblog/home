@@ -2,36 +2,31 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.zhoumo.name/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "NAS",
+    "link": "http://openwrt.zhoumo.name:5244/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "RouterSharp",
+    "name": "路由",
+    "link": "http://openwrt.zhoumo.name/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://zhoumo.name/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "Cloud",
+    "name": "NAS备用",
+    "link": "http://8.137.121.212:52444/"
   },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+ {
+    "icon": "RouterSharp",
+    "name": "路由备用",
+    "link": "http://8.137.121.212:56785/"
   }
 ]
