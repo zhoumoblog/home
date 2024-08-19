@@ -68,8 +68,8 @@ const siteIcon = {
   CompactDisc,
   Compass,
   Book,
-  RouterSharp,
   Fire,
+  RouterSharp,
   LaptopCode,
 };
 
