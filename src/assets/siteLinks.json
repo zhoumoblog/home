@@ -10,7 +10,7 @@
     "link": "http://openwrt.zhoumo.name:5244/"
   },
   {
-    "icon": "RouterSharp",
+    "icon": "LaptopCode",
     "name": "路由",
     "link": "http://openwrt.zhoumo.name/"
   },
@@ -25,7 +25,7 @@
     "link": "http://8.137.121.212:52444/"
   },
  {
-    "icon": "RouterSharp",
+    "icon": "LaptopCode",
     "name": "路由备用",
     "link": "http://8.137.121.212:56785/"
   }
